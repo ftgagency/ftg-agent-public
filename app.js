@@ -65,7 +65,7 @@ const guideContent = {
       ['Kiểm tra ghi dữ liệu', 'Khách chọn bảng, ánh xạ cột lead và thử bằng dữ liệu giả trước. Token/refresh token phải được backend mã hóa, không nhúng vào JavaScript.']
     ],
     links: [['Google Sheets Quickstart', 'https://developers.google.com/sheets/api/quickstart/js'], ['Google Sheets scopes', 'https://developers.google.com/workspace/sheets/api/scopes']],
-    warning: 'Không yêu cầu khách dán OAuth token hoặc Client Secret. Bản GitHub Pages hiện tại không xử lý callback OAuth.'
+    warning: 'Không yêu cầu khách dán OAuth token hoặc Client Secret. Bản xem tĩnh hiện tại không xử lý callback OAuth.'
   },
   chatgpt: {
     kicker: 'CONNECTOR · CHATGPT', title: 'Thêm Agent vào ChatGPT',
